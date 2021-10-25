@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>Carta de Ana</title>
+
+<link href="https://fonts.googleapis.com/css?family=Patrick+Hand|Quicksand&display=swap" rel="stylesheet">
+
+
+
+<style>
+
+h1{
+font-family: 'Patrick Hand', cursive;
+font-size: 80px;
+color: #A76EA7
+}
+
+body, p, table{
+font-family: 'Quicksand', sans-serif;
+font-size: 20px;
+}
+
+
+
+
+
+.fuente, td{
+font-weight: bold;
+color:  #A76EA7;
+
+
+
+font-size: 30px;
+text-align: center
+}
+
+.cuerpo{
+font-size: 25px
+}
+
+
+</style>
+	<meta charset="CHARACTER_SET">
+</head>
+
+
+
+
+<body background="imara/fondo8.jpg">
+
+
+<table width="100%" align="center">
+<br><br>
+<tr>
+	<td colspan="3"><p class="fuente">Cronogramas</p></td>
+</tr>
+
+<tr heigth="300px">
+	<td width="50%"><center><a href="cronograma1.html"><img src="imara/tae.jpg" width="100px"></a></center>
+		<p class="cuerpo" align="center">Enero</p></td><br>
+
+	<td width="50%"><center><a href="cronograma2.html"><img src="imara/jungkook.jpg" width="100px"></a></center>
+		<p class="cuerpo" align="center">Febrero</p></td><br>
+
+</tr><tr heigth="300px">
+	<td width="50%"><center><a href="cronograma3.html"><img src="imara/rm.jpg" width="100px"></a></center>
+		<p class="cuerpo" align="center">Marzo</p></td><br>
+
+	<td width="50%"><center><a href="cronograma4.html"><img src="imara/suga.jpg" width="100px"></a></center>
+		<p class="cuerpo" align="center">Abril</p></td><br>
+<tr>
+	<td align="left" colspan="2"><br><br><br><br><img src="imara/foto6.jpg" width="200px"><br><br></td>
+</tr>
+
+<tr>
+	<td align="center" colspan="2"><br><img src="imara/foto7.jpg" width="200px"></td>
+</tr>
+
+</table>
+
+
+
+
+
+

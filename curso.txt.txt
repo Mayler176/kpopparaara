@@ -1,0 +1,23 @@
+<html>
+<head>
+<title> Contenido </title>
+<link href="https://fonts.googleapis.com/css?family=Patrick+Hand|Quicksand&display=swap" rel="stylesheet">
+<style>
+
+h1{
+font-family: 'Patrick Hand', cursive;
+font-size: 90px
+}
+
+body, p, table{
+font-family: 'Quicksand', sans-serif;
+font-size: 18px
+}
+
+
+</style>
+<meta charset="CHARACTER_SET">
+</head>
+
+<body background="fondo3.png">
+hola

@@ -1,0 +1,64 @@
+<html>
+<head> 
+<title> Cronogrma 1 </title>
+<link href="https://fonts.googleapis.com/css?family=Caveat+Brush|Patrick+Hand|Quicksand&display=swap" rel="stylesheet">
+<style>
+
+h1{
+font-family: 'Patrick Hand', cursive;
+font-size: 80px
+}
+
+body, p, table{
+font-family: 'Quicksand', sans-serif;
+font-size: 22px
+}
+
+.fuente{
+font-size: 50px
+}
+
+
+.fuente{
+text-align: center
+}
+
+.fuente{
+font-family: 'Caveat Brush', cursive;
+}
+
+.fuente{
+color: #DE682C
+}
+.cuerpo{
+font-size: 25px
+}
+
+.negritas{
+font-weight: bold;
+}
+.mini{
+font-size: 15px
+}
+.mini{
+color: #DE682C
+}
+.mini{
+font-weight: bold;
+}
+
+</style>
+<meta charset="CHARACTER_SET">
+</head>
+
+<body background="imara/fondo3.jpg">
+
+<table width="80%" border="1>
+<tr>
+	<td width="100%"> <img src="cronograma1.png" width="100%"> </td>
+</tr>
+
+
+
+</body>
+</html>
